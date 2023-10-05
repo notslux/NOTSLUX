@@ -73,5 +73,5 @@ class MyPortfolio {
 
 ### Social
 
-[![](https://discord.c99.nl/widget/theme-4/652969127756955658.png)]()
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&redirect=true)
+[![]([https://discord.c99.nl/widget/theme-4/652969127756955658.png](https://discord.c99.nl/widget/theme-4/975469776505798737.png))]()
+[![spotify-github-profile]([https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&redirect=true](https://open.spotify.com/playlist/62ybs8r4eemchhVBEaGGds)https://open.spotify.com/playlist/62ybs8r4eemchhVBEaGGds)
